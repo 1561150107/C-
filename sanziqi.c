@@ -19,10 +19,6 @@ int isfull(char ch_board[ROW][COL], int row, int col);
 //平局   ——  'Q'
 //继续   ——  'C'
 
-
-
-
-
 //函数实现
 #define _CRT_SECURE_NO_WARNINGS 1
 #include"game.h"
@@ -178,8 +174,6 @@ int iswin(char ch_board[ROW][COL], int row, int col)
 	}
 	return 'C';
 }
-
-
 
 
 //主函数
