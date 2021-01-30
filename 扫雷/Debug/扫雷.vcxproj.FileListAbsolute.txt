@@ -1,2 +1,0 @@
-C:\Users\汤家豪\source\repos\扫雷\Debug\扫雷.exe
-C:\Users\汤家豪\source\repos\扫雷\Debug\扫雷.pdb
